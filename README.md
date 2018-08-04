@@ -1,5 +1,4 @@
-# kmaonchy.com
-kmaonchy.com
+
 396 garis (305 sloc)  18,2 KB
 Atribusi 4.0 Internasional
 
